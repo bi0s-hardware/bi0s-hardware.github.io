@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/author/</loc>
+    <loc>/author/</loc>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://examplesite.com/author/john-doe/</loc>
+    <loc>/author/john-doe/</loc>
   </url><url>
-    <loc>https://examplesite.com/author/mark-dinn/</loc>
+    <loc>/author/mark-dinn/</loc>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
